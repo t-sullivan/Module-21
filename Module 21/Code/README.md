@@ -8,4 +8,5 @@ I created a fungible ERC-20 token, and launched it on a local blockchain using G
 
 Please follow along in my video, in the Images and Video folder.  Following the video will result in a contract creation, and a contract call as seen in the below screenshot.
 
-![alt=""](Images and Video\Screenshot 2024-02-25 191250.png")
+![image](https://github.com/t-sullivan/Module-21/assets/31628355/205551ab-fb28-4961-a636-44599ed33f7f)
+
