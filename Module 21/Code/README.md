@@ -17,4 +17,5 @@ The following is the deployment of Kasei Coin with ticker KC:
 
 The following is the crowdsale, with ratio 1 to 1 of ETH to KC:
 
+![image](https://github.com/t-sullivan/Module-21/assets/31628355/39130284-e180-4436-993d-b7f9f6a90dce)
 
