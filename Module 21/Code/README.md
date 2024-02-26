@@ -10,3 +10,11 @@ Please follow along in my video, in the Images and Video folder.  Following the 
 
 ![image](https://github.com/t-sullivan/Module-21/assets/31628355/205551ab-fb28-4961-a636-44599ed33f7f)
 
+The following is the deployment of Kasei Coin with ticker KC:
+
+![image](https://github.com/t-sullivan/Module-21/assets/31628355/167be0c4-0f92-4b68-be49-e4f8b5eef160)
+
+
+The following is the crowdsale, with ratio 1 to 1 of ETH to KC:
+
+
